@@ -36,10 +36,10 @@ Score Lighthouse Mobile :
 
 ![image](https://kevin-bret.github.io/P5-NINA-CARDUCCI/assets/images/seo/MobileSeo.png)
 
-Rapport d'intervention : https://drive.google.com/file/d/1c4YLH0Bs4pwG4NDp66jus27frejOSw_q/view?usp=drive_link
+[Rapport d'intervention (PDF)](https://drive.google.com/file/d/1c4YLH0Bs4pwG4NDp66jus27frejOSw_q/view?usp=drive_link)
 
 ## 🔗 Links
 [![OPENCLASSROOMS](https://img.shields.io/badge/OPENCLASSROOMS-7451EB?style=for-the-badge&logoColor=white)](https://openclassrooms.com/fr/)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kevinbret.fr/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kevin-bret-534a73180)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-bret-534a73180/)
 
