@@ -4,7 +4,7 @@
 ### Projet OpenClassrooms N°5 : Nina Carducci - Photographe
 ![image](https://user.oc-static.com/upload/2022/06/22/16559176658498_595_P9_DIW%20-%20Inte%CC%81grateur%20Front-End%20%281%29.jpg)
 
-Lien du site optimisé : https://kevin-bret.github.io/P5-NINA-CARDUCCI/
+Lien du site optimisé : https://kevin-bret.github.io/P5-OC-NINA-CARDUCCI/
 
 ## Skills
 
